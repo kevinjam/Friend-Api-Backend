@@ -1,4 +1,4 @@
-package com.kevinjanvier.friendsapi;
+package com.kevinjanvier.friendsapi.model;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

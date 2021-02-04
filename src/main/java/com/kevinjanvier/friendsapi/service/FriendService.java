@@ -1,5 +1,7 @@
-package com.kevinjanvier.friendsapi;
+package com.kevinjanvier.friendsapi.service;
 
+import com.kevinjanvier.friendsapi.repository.FriendRepository;
+import com.kevinjanvier.friendsapi.model.Friend;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,11 +1,14 @@
-package com.kevinjanvier.friendsapi;
+package com.kevinjanvier.friendsapi.controller;
 
+import com.kevinjanvier.friendsapi.model.Friend;
+import com.kevinjanvier.friendsapi.service.FriendService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
 @RestController
+@CrossOrigin
 public class FriendController {
     @Autowired
     private FriendService service;

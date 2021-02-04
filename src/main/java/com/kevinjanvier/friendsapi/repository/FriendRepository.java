@@ -1,5 +1,6 @@
-package com.kevinjanvier.friendsapi;
+package com.kevinjanvier.friendsapi.repository;
 
+import com.kevinjanvier.friendsapi.model.Friend;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
