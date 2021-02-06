@@ -1,5 +1,0 @@
-insert into Friend values (1, 'Congo','Comp Sc', 'k@gmail.com','kevin','janvier')
-insert into Friend values (2, 'Uganda','Comp Sc', 'k@gmail.com','kevin','janvier')
-insert into Friend values (3, 'Burundi','Comp Sc', 'k@gmail.com','kevin','janvier')
-insert into Friend values (4, 'Rwanda','Comp Sc', 'k@gmail.com','kevin','janvier')
-insert into Friend values (5, 'Tanzania','Comp Sc', 'k@gmail.com','kevin','janvier')
